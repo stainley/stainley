@@ -49,7 +49,6 @@ I'm a highly skilled and experienced **Full Stack Developer** with a strong back
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) 
 
 ### Cloud and DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=Amazon-AWS&logoColor=white) 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=Microsoft-Azure&logoColor=white) 
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?logo=Red-Hat-OpenShift&logoColor=white)
 
