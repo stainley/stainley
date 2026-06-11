@@ -2,8 +2,7 @@
 
 I'm a highly skilled and experienced **Full Stack Developer** with a strong background in **Monolithic** and **Microservice Architecture**, proficient in **React/Redux**, **Java**, **Spring Boot**, **J2EE**, **Quarkus**, and **Cloud-Native Solutions**. I have a proven ability to work collaboratively, lead teams, and deliver high-quality software solutions.
 
-[![Google Play Developer](https://google.com)](https://play.google.com/store/apps/developer?id=SALRSoft)
-
+[![Android Developer](https://img.shields.io/badge/Android-Google_Play-3DDC84?logo=android&logoColor=white)](https://play.google.com/store/apps/developer?id=SALRSoft)
 ---
 
 ## 📄 Summary of Qualifications
